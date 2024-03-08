@@ -1,0 +1,6 @@
+[submodule "radar-devs-mobile"]
+	path = radar-devs-mobile
+	url = https://github.com/adoniasvitorio/radar-devs-mobile.git
+[submodule "proffy-mobile"]
+	path = proffy-mobile
+	url = https://github.com/adoniasvitorio/proffy-mobile.git
